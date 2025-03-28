@@ -1,2 +1,1 @@
-# celestial-body-database
-# celestial-body-database
+# celestial-bodies-db
